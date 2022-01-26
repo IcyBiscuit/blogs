@@ -18,9 +18,9 @@
 ##############################
 text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-url     : # the base hostname & protocol for your site e.g. https://www.someone.com
-baseurl : # does not include hostname
-title   : 秃头是如何养成的
+url     : https://blogs.icybiscuit.top # the base hostname & protocol for your site e.g. https://www.someone.com
+baseurl : / # does not include hostname
+title   : 瞎编胡诌
 description: > # this means to ignore newlines until "Language & timezone"
   Your Site Description
 
@@ -56,7 +56,7 @@ author:
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
 repository: icybiscuit/icybiscuit.github.io
-repository_tree: my_post
+repository_tree: master
 
 
 ## => Paths
